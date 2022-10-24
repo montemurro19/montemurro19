@@ -29,5 +29,5 @@
   <a href="https://twitter.com/_montemurro_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-  
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g)"> 
+ 
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
