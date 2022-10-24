@@ -2,6 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Montemurro</h1>
 
 📚 System Analysis & Development - FIAP - Paulista
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -12,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK)&nbsp;
 ![SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
+<br>
 ## Contact
 
 <p align="left" style="background:yellow">
