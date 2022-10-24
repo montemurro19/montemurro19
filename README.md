@@ -21,7 +21,7 @@
   <img align="center" src="https://img.shields.io/badge/-@_montemurro_-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/matheus-gomes-montemurro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheus-gomes-montemurro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-matheus_montemurro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/matheus_montemurro/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheus_montemurro-05122A?style=flat&logo=instagram" alt="instagram"/>
