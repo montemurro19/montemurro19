@@ -29,5 +29,5 @@
   <a href="https://twitter.com/_montemurro_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-
-![gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC")
+  
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"> width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
