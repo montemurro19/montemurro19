@@ -30,4 +30,4 @@
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
   
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"> width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g)"> 
