@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK)&nbsp;
 <br>
 ![SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Contact
 
