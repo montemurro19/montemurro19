@@ -1,9 +1,8 @@
-<img align='right' heigt='590em' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
+<img align='right' heigt='500em' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Montemurro</h1>
 
 📚 System Analysis & Development - FIAP - Paulista
-<br><br><br><br><br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -16,7 +15,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK)&nbsp;
 <br>
 ![SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
-<br><br><br><br>
 
 ## Contact
 
