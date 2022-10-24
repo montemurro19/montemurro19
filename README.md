@@ -18,13 +18,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/_montemurro_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-@_montemurro_-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/matheus-gomes-montemurro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheus_montemurro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/matheus_montemurro/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheus_montemurro-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!--
 **montemurro19/montemurro19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
