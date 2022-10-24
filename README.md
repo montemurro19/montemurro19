@@ -1,4 +1,5 @@
-<img align='right' heigt='590em' src='https://raw.githubusercontent.com/gist/montemurro19/3a39986c9bc31070f1dcfbcb13195e1b/raw/041d89eba630b6bfa4c519968867b270e43f5142/githubcard.svg'>
+<img align='right' heigt='590em' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Montemurro</h1>
 
 📚 System Analysis & Development - FIAP - Paulista
@@ -30,4 +31,4 @@
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
  
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
+<img align='right' heigt='590em' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
