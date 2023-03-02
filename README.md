@@ -3,7 +3,6 @@
 👋 Hi, I’m <b>Matheus Montemurro</b>
 <br>
 📚 <b>System Analysis & Development</b> - FIAP <br>
-👀 I’m interested in <b>Programming/Dev/Design</b>
 
 ## 👨‍💻 My tech stack
 <div align="center">
