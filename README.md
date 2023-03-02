@@ -6,13 +6,13 @@
 👀 I’m interested in <b>Programming/Dev/Design</b>
 <br>
 <br>
-<div align="left">
-	<img height="300" width="850" src="https://camo.githubusercontent.com/18a72a365a73f859fe5868ab16f062166b78c0f165e04600ca1e1dd7da5e4a61/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534377a6f7039756d6b786f6b397473676c79786f7a6734616c756a64347574716c77376e6f7875386a64267269643d67697068792e6769662663743d67"/>
+<div align="center">
+	<img height="400" width="850" src="https://camo.githubusercontent.com/18a72a365a73f859fe5868ab16f062166b78c0f165e04600ca1e1dd7da5e4a61/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534377a6f7039756d6b786f6b397473676c79786f7a6734616c756a64347574716c77376e6f7875386a64267269643d67697068792e6769662663743d67"/>
 </div>
 <br>
 
 ## 👨‍💻 My tech stack
-<div align="left">
+<div align="center">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
@@ -24,7 +24,7 @@
 
 ## Contact
 
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/matheus-montemurro/" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
 </a>
