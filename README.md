@@ -5,6 +5,12 @@
 📚 <b>System Analysis & Development</b> - FIAP <br>
 👀 I’m interested in <b>Programming/Dev/Design</b>
 <br>
+## 📊 My stats
+
+<div align="center">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=montemurro19&theme=onedark&show_icons=true&hide_title=true" />
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montemurro19&theme=onedark&layout=compact&hide_title=true" />
+</div>
 <br>
 <div align="center">
 	<img height="400" width="850" src="https://camo.githubusercontent.com/18a72a365a73f859fe5868ab16f062166b78c0f165e04600ca1e1dd7da5e4a61/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534377a6f7039756d6b786f6b397473676c79786f7a6734616c756a64347574716c77376e6f7875386a64267269643d67697068792e6769662663743d67"/>
