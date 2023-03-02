@@ -1,30 +1,34 @@
-<img align='right' heigth='600px' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zop9umkxok9tsglyxozg4alujd4utqlw7noxu8jd&rid=giphy.gif&ct=g">
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Montemurro!</h1>
-
-📚 System Analysis & Development - FIAP
-
-## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+## 📖 About me
 <br>
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK)&nbsp;
+👋 Hi, I’m <b>Matheus Montemurro</b>
 <br>
-![SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
+📚 <b>System Analysis & Development</b> - FIAP <br>
+👀 I’m interested in <b>Programming/Dev/Design</b>
+<br>
+<br>
+
+## 👨‍💻 My tech stack
+<div align="left">
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
+	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
+</div>
+<br>
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/matheus-gomes-montemurro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<div align="left">
+<a href="https://www.linkedin.com/in/matheus-montemurro/" target="_blank">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/matheus_montemurro/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram"/>
 </a>
   <a href="https://twitter.com/_montemurro_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" alt="twitter"/>  
 </a>
+</div>
 
