@@ -1,5 +1,5 @@
 ## 📖 About me
-<br>
+
 👋 Hi, I’m <b>Matheus Montemurro</b>
 <br>
 📚 <b>System Analysis & Development</b> - FIAP <br>
