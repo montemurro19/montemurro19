@@ -11,7 +11,7 @@
 </div>
 
 ## 👨‍💻 My tech stack
-<div align="left">
+<div align="center">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
@@ -22,7 +22,7 @@
 
 ## Contact
 
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/matheus-montemurro/" target="_blank">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
 </a>
